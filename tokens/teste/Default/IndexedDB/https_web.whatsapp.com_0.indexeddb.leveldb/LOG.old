@@ -1,0 +1,65 @@
+2024/04/23-17:36:04.378 127c Reusing MANIFEST D:\Developer\Devsamurai\whats\tokens\teste\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/23-17:36:04.380 127c Recovering log #2916
+2024/04/23-17:36:04.400 127c Reusing old log D:\Developer\Devsamurai\whats\tokens\teste\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/002916.log 
+2024/04/23-17:36:15.106 44dc Level-0 table #2932: started
+2024/04/23-17:36:15.120 44dc Level-0 table #2932: 608731 bytes OK
+2024/04/23-17:36:15.123 44dc Delete type=0 #2916
+2024/04/23-17:36:15.123 127c Manual compaction at level-0 from '\x00<\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00=\x00\x00\x00' @ 0 : 0; will stop at '\x00<\x00\x00\x05' @ 8558944 : 1
+2024/04/23-17:36:15.124 127c Compacting 1@0 + 3@1 files
+2024/04/23-17:36:15.139 127c Generated table #2933@0: 15977 keys, 153257 bytes
+2024/04/23-17:36:15.161 127c Generated table #2934@0: 13602 keys, 785629 bytes
+2024/04/23-17:36:15.166 127c Generated table #2935@0: 327 keys, 6757 bytes
+2024/04/23-17:36:15.171 127c Generated table #2936@0: 902 keys, 20586 bytes
+2024/04/23-17:36:15.171 127c Compacted 1@0 + 3@1 files => 966229 bytes
+2024/04/23-17:36:15.174 127c compacted to: files[ 0 4 44 0 0 0 0 ]
+2024/04/23-17:36:15.174 127c Delete type=2 #2932
+2024/04/23-17:36:15.174 127c Manual compaction at level-0 from '\x00<\x00\x00\x05' @ 8558944 : 1 .. '\x00=\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/23-17:36:16.145 844 Compacting 1@1 + 7@2 files
+2024/04/23-17:36:16.198 844 Generated table #2937@1: 52985 keys, 2219353 bytes
+2024/04/23-17:36:16.248 844 Generated table #2938@1: 39767 keys, 2193753 bytes
+2024/04/23-17:36:16.301 844 Generated table #2939@1: 65831 keys, 2231769 bytes
+2024/04/23-17:36:16.349 844 Generated table #2940@1: 51974 keys, 2222991 bytes
+2024/04/23-17:36:16.372 844 Generated table #2941@1: 10926 keys, 2155622 bytes
+2024/04/23-17:36:16.400 844 Generated table #2942@1: 2733 keys, 2159496 bytes
+2024/04/23-17:36:16.418 844 Generated table #2943@1: 1649 keys, 1555405 bytes
+2024/04/23-17:36:16.418 844 Compacted 1@1 + 7@2 files => 14738389 bytes
+2024/04/23-17:36:16.420 844 compacted to: files[ 0 3 44 0 0 0 0 ]
+2024/04/23-17:36:16.421 844 Delete type=2 #2903
+2024/04/23-17:36:16.421 844 Delete type=2 #2904
+2024/04/23-17:36:16.421 844 Delete type=2 #2921
+2024/04/23-17:36:16.421 844 Delete type=2 #2922
+2024/04/23-17:36:16.421 844 Delete type=2 #2923
+2024/04/23-17:36:16.421 844 Delete type=2 #2924
+2024/04/23-17:36:16.421 844 Delete type=2 #2925
+2024/04/23-17:36:16.421 844 Delete type=2 #2926
+2024/04/23-17:36:16.421 844 Delete type=2 #2927
+2024/04/23-17:36:16.421 844 Delete type=2 #2928
+2024/04/23-17:36:16.421 844 Delete type=2 #2933
+2024/04/23-17:36:17.114 844 Compacting 1@1 + 13@2 files
+2024/04/23-17:36:17.174 844 Generated table #2944@1: 36396 keys, 2242764 bytes
+2024/04/23-17:36:17.221 844 Generated table #2945@1: 25470 keys, 2278949 bytes
+2024/04/23-17:36:17.268 844 Generated table #2946@1: 26389 keys, 2273874 bytes
+2024/04/23-17:36:17.316 844 Generated table #2947@1: 26739 keys, 2264731 bytes
+2024/04/23-17:36:17.366 844 Generated table #2948@1: 31789 keys, 2193099 bytes
+2024/04/23-17:36:17.410 844 Generated table #2949@1: 28679 keys, 2251513 bytes
+2024/04/23-17:36:17.435 844 Generated table #2950@1: 6989 keys, 2128144 bytes
+2024/04/23-17:36:17.456 844 Generated table #2951@1: 3107 keys, 2119928 bytes
+2024/04/23-17:36:17.483 844 Generated table #2952@1: 3696 keys, 2123441 bytes
+2024/04/23-17:36:17.512 844 Generated table #2953@1: 26810 keys, 2153493 bytes
+2024/04/23-17:36:17.519 844 Generated table #2954@1: 7745 keys, 154470 bytes
+2024/04/23-17:36:17.520 844 Compacted 1@1 + 13@2 files => 22184406 bytes
+2024/04/23-17:36:17.522 844 compacted to: files[ 0 2 42 0 0 0 0 ]
+2024/04/23-17:36:17.522 844 Delete type=2 #2773
+2024/04/23-17:36:17.522 844 Delete type=2 #2774
+2024/04/23-17:36:17.522 844 Delete type=2 #2775
+2024/04/23-17:36:17.522 844 Delete type=2 #2835
+2024/04/23-17:36:17.522 844 Delete type=2 #2888
+2024/04/23-17:36:17.522 844 Delete type=2 #2889
+2024/04/23-17:36:17.522 844 Delete type=2 #2909
+2024/04/23-17:36:17.523 844 Delete type=2 #2910
+2024/04/23-17:36:17.523 844 Delete type=2 #2911
+2024/04/23-17:36:17.523 844 Delete type=2 #2914
+2024/04/23-17:36:17.523 844 Delete type=2 #2915
+2024/04/23-17:36:17.523 844 Delete type=2 #2918
+2024/04/23-17:36:17.523 844 Delete type=2 #2919
+2024/04/23-17:36:17.523 844 Delete type=2 #2934
